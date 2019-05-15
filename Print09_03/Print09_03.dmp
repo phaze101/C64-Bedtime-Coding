@@ -1,0 +1,36 @@
+
+******* 23 Label(s) *******
+AddColumn = $C052 
+AddrNextString = $C0BD 
+AddScrBase = $C066 
+Buf1 = $C07A 
+Buf2 = $C07C 
+Buf3 = $C07E 
+CalcRow = $C03E 
+ClearBuffers = $C0D8 
+ClearScreen = $C01A 
+ClrBufLoop = $C0DC 
+ClrLoop = $C01C 
+DisplayScreen = $C0D0 
+Main = $C000 
+NoStrs = $C0E3 
+PrintAt = $C080 
+PrintExit = $C0CF 
+PrintNextString = $C0B4 
+PrtLoop = $C0AB 
+SetBgBorder = $C013 
+SetCurs = $C039 
+SetPos = $C084 
+Strings = $C0E4 
+WaitForSpace = $C02C 
+
+******* 2 Unused label(s) *******
+AddrNextString
+Main
+
+******* 2 Variable(s) *******
+ScrBase  = $0400
+tgt_c64  = $0001
+******* 1 Unused variables(s) *******
+tgt_c64
+
