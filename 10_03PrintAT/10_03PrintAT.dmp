@@ -1,0 +1,76 @@
+
+******* 21 Label(s) *******
+AddColumn = $C075 
+AddScrBase = $C089 
+Buf1 = $C09D 
+Buf2 = $C09F 
+Buf3 = $C0A1 
+CalcRow = $C061 
+ClearBuffers = $C115 
+ClrBufLoop = $C119 
+DisplayScreen = $C108 
+Main = $C000 
+PrintAt = $C0A3 
+PrintExit = $C107 
+PrintNextString = $C0F3 
+PrtLoop = $C0E6 
+ScrFill = $C02A 
+ScrLoop = $C02E 
+SetBgBorder = $C023 
+SetCurs = $C05C 
+SetPos = $C0A7 
+Strings = $C120 
+WaitForSpace = $C04F 
+
+******* 1 Unused label(s) *******
+Main
+
+******* 29 Variable(s) *******
+Black  = $0000
+Blue  = $0006
+Brown  = $0009
+Cyan  = $0003
+DarkGray  = $000B
+False  = $0000
+Green  = $0005
+LightBlue  = $000E
+LightGray  = $000F
+LightGreen  = $000D
+LightRed  = $000A
+MediumGray  = $000C
+Orange  = $0008
+Purple  = $0004
+Red  = $0002
+ScrBase  = $0400
+ScrCol  = $D800
+SpaceCharacter  = $0020
+tgt_c64  = $0001
+True  = $0001
+White  = $0001
+Yellow  = $0007
+ZeroPtr1High  = $0003
+ZeroPtr1Low  = $0002
+ZeroPtr2High  = $0005
+ZeroPtr2Low  = $0004
+ZeroTmpMem01  = $002A
+ZeroTmpMem02  = $0052
+ZeroTmpMem03  = $0006
+******* 17 Unused variables(s) *******
+Brown
+Cyan
+False
+Green
+LightGray
+LightGreen
+LightRed
+MediumGray
+Orange
+Purple
+Red
+tgt_c64
+True
+Yellow
+ZeroPtr2High
+ZeroPtr2Low
+ZeroTmpMem03
+

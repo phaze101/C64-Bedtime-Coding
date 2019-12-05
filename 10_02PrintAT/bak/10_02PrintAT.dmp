@@ -1,0 +1,37 @@
+
+******* 22 Label(s) *******
+AddColumn = $C075 
+AddScrBase = $C089 
+Buf1 = $C09D 
+Buf2 = $C09F 
+Buf3 = $C0A1 
+CalcRow = $C061 
+ClearBuffers = $C0FF 
+ClrBufLoop = $C103 
+DisplayScreen = $C0F7 
+Main = $C000 
+NoStrs = $C10A 
+PrintAt = $C0A3 
+PrintExit = $C0F6 
+PrintNextString = $C0DF 
+PrtLoop = $C0D6 
+ScrFill = $C02A 
+ScrLoop = $C02E 
+SetBgBorder = $C023 
+SetCurs = $C05C 
+SetPos = $C0AF 
+Strings = $C10B 
+WaitForSpace = $C04F 
+
+******* 1 Unused label(s) *******
+Main
+
+******* 4 Variable(s) *******
+ColMem  = $D800
+ScrBase  = $0400
+TempMem  = $0002
+tgt_c64  = $0001
+******* 2 Unused variables(s) *******
+ColMem
+tgt_c64
+

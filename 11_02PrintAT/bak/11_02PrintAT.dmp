@@ -1,0 +1,80 @@
+
+******* 25 Label(s) *******
+AddColumn = $C07F 
+AddScrBase = $C093 
+Buf1 = $C0A7 
+Buf2 = $C0A9 
+Buf3 = $C0AB 
+CalcRow = $C06B 
+ClearBuffers = $C152 
+ClrBufLoop = $C156 
+DisplayScreens = $C112 
+GameOverScreen = $C2A4 
+GameScreen = $C19D 
+HomeScreen = $C15D 
+KeyPressed = $C057 
+KeyReleased = $C05E 
+Main = $C000 
+PrintAT = $C0AD 
+PrintExit = $C111 
+PrintNextString = $C0FD 
+PrtLoop = $C0F0 
+ScrFill = $C023 
+ScrLoop = $C027 
+SetBgBorder = $C01C 
+SetCurs = $C066 
+SetPos = $C0B1 
+WaitForSpace = $C048 
+
+******* 1 Unused label(s) *******
+Main
+
+******* 29 Variable(s) *******
+Black  = $0000
+Blue  = $0006
+Brown  = $0009
+Cyan  = $0003
+DarkGray  = $000B
+False  = $0000
+Green  = $0005
+LightBlue  = $000E
+LightGray  = $000F
+LightGreen  = $000D
+LightRed  = $000A
+MediumGray  = $000C
+Orange  = $0008
+Purple  = $0004
+Red  = $0002
+ScrBase  = $0400
+ScrCol  = $D800
+SpaceCharacter  = $0020
+tgt_c64  = $0001
+True  = $0001
+White  = $0001
+Yellow  = $0007
+ZeroPtr1High  = $0004
+ZeroPtr1Low  = $0003
+ZeroPtr2High  = $0006
+ZeroPtr2Low  = $0005
+ZeroTmpMem01  = $0002
+ZeroTmpMem02  = $002A
+ZeroTmpMem03  = $0052
+******* 17 Unused variables(s) *******
+Brown
+Cyan
+DarkGray
+False
+LightGray
+LightRed
+MediumGray
+Orange
+Purple
+Red
+tgt_c64
+True
+White
+Yellow
+ZeroPtr2High
+ZeroPtr2Low
+ZeroTmpMem03
+
