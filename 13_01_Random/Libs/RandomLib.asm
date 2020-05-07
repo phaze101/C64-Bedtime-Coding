@@ -21,7 +21,7 @@
 ;==============================================================================
 
 RNDRasCIA
-        lda     $d012           ; Retuens Raster Line Number
+        lda     $d012           ; Returns Raster Line Number
         eor     $dc04           ; Low byte of Timer A
         sbc     $dc05           ; Low Byte of Timer B
         rts
