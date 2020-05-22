@@ -45,6 +45,7 @@
         <FileName>06.Random.asm</FileName>
         <FileName>07.Random.asm</FileName>
         <FileName>08.SupDemo.asm</FileName>
+        <FileName>RandomLib.asm</FileName>
     </BuildList>
     <DetermineBuildOrder>0</DetermineBuildOrder>
     <PaddingByte>234</PaddingByte>
@@ -129,6 +130,17 @@
         </SourceFile>
         <SourceFile>
             <Name>08.SupDemo.asm</Name>
+            <PrgName />
+            <FileType>2</FileType>
+            <IncludeInBuild>True</IncludeInBuild>
+            <Regions />
+            <Breakpoints />
+            <Bookmarks />
+            <Topmost>False</Topmost>
+            <FileOpen>True</FileOpen>
+        </SourceFile>
+        <SourceFile>
+            <Name>RandomLib.asm</Name>
             <PrgName />
             <FileType>2</FileType>
             <IncludeInBuild>True</IncludeInBuild>
